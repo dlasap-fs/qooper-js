@@ -1,6 +1,6 @@
 # qooper-js
 
-JavaScript Activity done by Dominic Gabriel Lasap - Full Scale Software Developer for Mr. [Cenk](https://www.linkedin.com/in/cenkyurtbilir) Qooper.io
+JavaScript Activity done by Dominic Gabriel Lasap - Full Scale Software Developer for Mr. [Cenk](https://www.linkedin.com/in/cenkyurtbilir)'s Qooper.io
 
 # Alphabetically Largest Letter Finder
 
@@ -15,5 +15,7 @@ No installation required. Simply copy the `solution` function into your JavaScri
 const solution = require('./solution');
 
 console.log(solution("aaBabcDaA")); // Output: "B"
+
 console.log(solution("Qooper")); // Output: "NO"
+
 console.log(solution("WeTestCodErs"));// Output: "T"
